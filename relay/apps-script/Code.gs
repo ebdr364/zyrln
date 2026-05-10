@@ -1,5 +1,5 @@
 const AUTH_KEY = "LpIp-2tjq5INTlYL_Hu7dBHBH8cd_iWWVVJ4QUAxZQI=";
-const EXIT_RELAY_URL = "https://CHANGE_ME_EXIT_RELAY_URL/relay";
+const EXIT_RELAY_URL = "https://zyrln.ebebeb28.workers.dev/relay";
 const EXIT_RELAY_KEY = "";
 
 const SKIP_HEADERS = {
